@@ -5,19 +5,25 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
-    "start-nodemon": "nodemon server/server.js"
+    "start-nodemon": "nodemon --ignore server/movies.json --ignore server/users.json server/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^6.0.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-session": "^1.17.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.14"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "server/movies.json",
+      "server/users.json"
+    ]
   }
 }

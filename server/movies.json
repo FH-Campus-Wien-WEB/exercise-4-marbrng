@@ -79,6 +79,79 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
       "imdbRating": 6.9
+    },
+    "tt0816692": {
+      "imdbID": "tt0816692",
+      "Title": "Interstellar",
+      "Released": "2014-11-06",
+      "Runtime": 169,
+      "Genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 74,
+      "imdbRating": 8.7
+    },
+    "tt5083736": {
+      "imdbID": "tt5083736",
+      "Title": "Interstellar Wars",
+      "Released": "2016-03-11",
+      "Runtime": 83,
+      "Genres": [
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Marlene Mc'Cohen"
+      ],
+      "Writers": [
+        "Robert Ryan"
+      ],
+      "Actors": [
+        "Brian Lally",
+        "Marlene Mc'Cohen",
+        "Robert Woods"
+      ],
+      "Plot": "Beyond the dark side of the moon, an ancient portal opens, delivering a ruthless alien species which brings the planet Earth to its knees.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZhOTliNGEtZGY2Mi00ZDI0LWFjMjUtNTYyZWRjY2MwNGJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 1.7
+    },
+    "tt4172224": {
+      "imdbID": "tt4172224",
+      "Title": "Interstellar: Nolan's Odyssey",
+      "Released": "2014-11-04",
+      "Runtime": 23,
+      "Genres": [
+        "Documentary"
+      ],
+      "Directors": [],
+      "Writers": [
+        "Tim Postins"
+      ],
+      "Actors": [
+        "Michael Caine",
+        "Jessica Chastain",
+        "David Gyasi"
+      ],
+      "Plot": "A travel through the stars and the space with the Nolan's Interstellar and how you can see it.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGYzMGY0ZjctNDY3ZC00MDEzLTgzN2YtYWM1OTQyOTI1NDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 7.4
     }
   },
   "jane": {
